@@ -1,0 +1,1 @@
+# yapay_zeka_emlak_eslestirme_odevi
