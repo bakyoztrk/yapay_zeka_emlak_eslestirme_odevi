@@ -1,36 +1,5 @@
-# Emlak Metin Benzerliği Projesi
+# Model Dosyaları
+GitHub dosya boyutu sınırları nedeniyle eğitilmiş modeller Google Drive üzerinde paylaşılmıştır.
 
-## Proje Açıklaması
-
-Bu projede emlak ilanlarından oluşan metin verileri üzerinde benzerlik analizi yapılmıştır.
-
-Kullanılan yöntemler:
-
-* TF-IDF
-* Word2Vec
-* Cosine Similarity
-* Jaccard Similarity
-
-## Dosyalar
-
-* emlak_projesi.ipynb
-* emlak_projesi_2.ipynb
-
-## Çalıştırma Adımları
-
-1. Gerekli kütüphaneleri yükleyin.
-2. Notebook dosyasını açın.
-3. Hücreleri sırasıyla çalıştırın.
-4. Model sonuçlarını inceleyin.
-
-## Kullanılan Teknolojiler
-
-* Python
-* Pandas
-* Scikit-learn
-* Gensim
-
-## Sonuç
-
-Farklı model yapılandırmaları karşılaştırılmış ve en başarılı sonuçlar değerlendirilmiştir.
-
+# Word2Vec Modelleri
+Model Dosyaları: [Google Drive Linki](https://drive.google.com/drive/folders/1Ia2ES9RHUAqS6TDlZNPg3BeCDVidI8HJ?usp=drive_link)
